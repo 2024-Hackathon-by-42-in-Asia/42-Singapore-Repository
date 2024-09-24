@@ -9,7 +9,7 @@ Frequent orders from a specific restaurant will trigger notifications when a pan
 ## Server resources used
 
 Vercel:
-You can check the app on [vercel](https://bruh-dxgp.vercel.app/)
+You can check the app on [vercel](https://hack-42-sg-rosy.vercel.app/)
 
 ## Repository's role
 
