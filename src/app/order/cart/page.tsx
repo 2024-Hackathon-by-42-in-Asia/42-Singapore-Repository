@@ -112,7 +112,7 @@ export default function CartPage() {
         <div className="flex flex-col gap-3">
           <p className="text-lg font-bold">Subtotal</p>
           <p className="font-bold text-sm">Standard Delivery</p>
-          <p className="font-bold text-sm">PandaGather Discount</p>
+          <p className="font-bold text-sm">pandagather Discount</p>
           <p className="font-bold text-sm">Platform Fee</p>
         </div>
         <div className="flex flex-col gap-3 text-end">

@@ -1,10 +1,10 @@
 ## Project description
 
-PandaGathers allows users to join an existing order nearby. Users can see all orders that are available for joining. They can select one and proceed with the order, but they have limited time to confirm it.
+pandagather offers users the opportunity to join nearby orders, making delivery more efficient and eco-friendly. Users can browse all available orders, choose one to join, and confirm their participation within a set time limit.
 
-This gives the user a small discount on the delivery and reduces CO2 emissions by saving a trip. Users earn points for every PandaGather they join. Based on their points, they are assigned a tier represented by an animal. Their avatar picture will be the tier animal, personalized to the type of food they like to order and other factors to make it unique.
+By joining a pandagather, users not only enjoy a small discount on delivery but also contribute to reducing CO2 emissions by combining trips. Each time users participate, they earn points that contribute to their progress through different tiers, represented by unique animal avatars. These avatars are personalized based on the tier animal and the user’s ordering preferences.
 
-If a user orders frequently from a certain place, they will receive a notification when a PandaGather is available for that restaurant and their location. They can enable PandaGather for each savedlocation.
+Frequent orders from a specific restaurant will trigger notifications when a pandagather is available at that location. Users can activate this feature for each of their saved locations.
 
 ## Server resources used
 

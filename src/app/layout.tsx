@@ -7,7 +7,7 @@ import { Toaster } from "sonner";
 const font = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PandaGather",
+  title: "pandagather",
   description: "Gathering all the pandas",
 };
 
