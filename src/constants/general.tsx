@@ -1,0 +1,34 @@
+import {
+  Carrot,
+  Drumstick,
+  Package,
+  Search,
+  Star,
+  Store,
+  TicketPercent,
+  User,
+} from "lucide-react";
+
+export const userLocation = "🎓 SUTD, 8 Somapah Rd";
+export const restaurantName = "Hubert Restaurant";
+
+export const homepageIcons = [
+  { icon: <TicketPercent />, title: "Offers" },
+  { icon: <Store />, title: "pandamart", selected: true },
+  { icon: <Package />, title: "Pick-up" },
+  { icon: <Star />, title: "pandago" },
+];
+
+export const cuisineImages = [
+  { src: "/korean.png" },
+  { src: "/japanese.png" },
+  { src: "/pizza.png" },
+  { src: "/singapore.png" },
+];
+
+export const navbarItems = [
+  { icon: <Drumstick />, title: "Food", href: "/", selected: true },
+  { icon: <Carrot />, title: "Grocery", href: "/" },
+  { icon: <Search />, title: "Search", href: "/" },
+  { icon: <User />, title: "Account", href: "/profile" },
+];
