@@ -1,1 +1,4 @@
-+ readme.
+## 42 Singapore 
+
+![Rick Roll](./rick.gif)
+
